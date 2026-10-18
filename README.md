@@ -1,38 +1,38 @@
-\# JMeter API Load Testing
+# JMeter API Load Testing
 
 
 
-\## Project Description
+## Project Description
 
 Performance testing of a local REST API using Apache JMeter 5.6.3.
 
 
 
-\## Environment
+## Environment
 
-\- OS: Windows 11
+- OS: Windows 11
 
-\- Java: OpenJDK 21
+- Java: OpenJDK 21
 
-\- JMeter: 5.6.3
+- JMeter: 5.6.3
 
-\- Backend: Node.js
+- Backend: Node.js
 
-\- Base URL: http://localhost:3001
+- Base URL: http://localhost:3001
 
 
 
-\## API Endpoints
+## API Endpoints
 
-1\. POST /character
+1. POST /character
 
-2\. GET /characters
+2. GET /characters
 
-3\. GET /character/{id}
+3. GET /character/{id}
 
-4\. PUT /character/{id}
+4. PUT /character/{id}
 
-5\. DELETE /character/{id}
+5. DELETE /character/{id}
 
 
 
@@ -44,7 +44,7 @@ Character IDs are extracted from POST responses using JSON Extractor.
 
 
 
-\## Load Testing Results
+## Load Testing Results
 
 
 
@@ -60,7 +60,7 @@ Character IDs are extracted from POST responses using JSON Extractor.
 
 
 
-\## Duration Assertion
+## Duration Assertion
 
 
 
@@ -78,15 +78,15 @@ hardware limitations and instructor permission.
 
 
 
-\## Reports
+## Reports
 
 
 
-\- report\_100
+- report_100
 
-\- report\_1000
+- report_1000
 
-\- report\_5000
+- report_5000
 
 
 
@@ -98,7 +98,7 @@ Original JTL results are also included.
 
 
 
-\## Conclusions
+## Conclusions
 
 
 
@@ -120,15 +120,15 @@ to dynamic character ID handling.
 
 
 
-\## Recommendations
+## Recommendations
 
 
 
-\- Investigate server connection limits.
+- Investigate server connection limits.
 
-\- Improve application stability under high concurrency.
+- Improve application stability under high concurrency.
 
-\- Optimize character ID management.
+- Optimize character ID management.
 
-\- Repeat high-load testing in a suitable environment.
+- Repeat high-load testing in a suitable environment.
 
