@@ -1,0 +1,501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1792253519864,53,GET All Characters,200,OK,API Load Testing 1-4,text,true,,418,129,25,25,http://localhost:3001/characters,45,0,29
+1792253519864,53,GET All Characters,200,OK,API Load Testing 1-8,text,true,,418,129,25,25,http://localhost:3001/characters,45,0,29
+1792253519864,54,GET All Characters,200,OK,API Load Testing 1-16,text,true,,418,129,25,25,http://localhost:3001/characters,47,0,30
+1792253519863,54,GET All Characters,200,OK,API Load Testing 1-6,text,true,,418,129,25,25,http://localhost:3001/characters,49,0,30
+1792253519865,53,GET All Characters,200,OK,API Load Testing 1-17,text,true,,418,129,25,25,http://localhost:3001/characters,45,0,29
+1792253519865,53,GET All Characters,200,OK,API Load Testing 1-18,text,true,,418,129,25,25,http://localhost:3001/characters,45,0,29
+1792253519864,53,GET All Characters,200,OK,API Load Testing 1-12,text,true,,418,129,25,25,http://localhost:3001/characters,45,0,29
+1792253519865,53,GET All Characters,200,OK,API Load Testing 1-14,text,true,,418,129,25,25,http://localhost:3001/characters,45,0,29
+1792253519874,44,GET All Characters,200,OK,API Load Testing 1-20,text,true,,418,129,25,25,http://localhost:3001/characters,36,0,20
+1792253519892,26,GET All Characters,200,OK,API Load Testing 1-22,text,true,,418,129,25,25,http://localhost:3001/characters,20,0,2
+1792253519864,54,GET All Characters,200,OK,API Load Testing 1-13,text,true,,418,129,25,25,http://localhost:3001/characters,47,0,30
+1792253519883,36,GET All Characters,200,OK,API Load Testing 1-21,text,true,,418,129,25,25,http://localhost:3001/characters,36,0,11
+1792253519863,54,GET All Characters,200,OK,API Load Testing 1-5,text,true,,418,129,25,25,http://localhost:3001/characters,47,0,30
+1792253519863,54,GET All Characters,200,OK,API Load Testing 1-7,text,true,,418,129,25,25,http://localhost:3001/characters,48,0,30
+1792253519864,54,GET All Characters,200,OK,API Load Testing 1-15,text,true,,418,129,25,25,http://localhost:3001/characters,54,0,30
+1792253519865,53,GET All Characters,200,OK,API Load Testing 1-19,text,true,,418,129,25,25,http://localhost:3001/characters,45,0,29
+1792253519864,53,GET All Characters,200,OK,API Load Testing 1-2,text,true,,418,129,25,25,http://localhost:3001/characters,52,0,30
+1792253519864,53,GET All Characters,200,OK,API Load Testing 1-3,text,true,,418,129,25,25,http://localhost:3001/characters,52,0,30
+1792253519864,53,GET All Characters,200,OK,API Load Testing 1-9,text,true,,418,129,25,25,http://localhost:3001/characters,45,0,29
+1792253519864,53,GET All Characters,200,OK,API Load Testing 1-11,text,true,,418,129,25,25,http://localhost:3001/characters,45,0,29
+1792253519863,56,GET All Characters,200,OK,API Load Testing 1-1,text,true,,418,129,25,25,http://localhost:3001/characters,56,0,30
+1792253519863,57,GET All Characters,200,OK,API Load Testing 1-10,text,true,,418,129,25,25,http://localhost:3001/characters,57,0,30
+1792253519921,3,GET Character by ID,200,OK,API Load Testing 1-10,text,true,,270,130,25,25,http://localhost:3001/character/1,3,0,0
+1792253519902,23,GET All Characters,200,OK,API Load Testing 1-23,text,true,,418,129,25,25,http://localhost:3001/characters,23,0,1
+1792253519913,12,GET All Characters,200,OK,API Load Testing 1-24,text,true,,418,129,25,25,http://localhost:3001/characters,12,0,2
+1792253519921,5,GET Character by ID,200,OK,API Load Testing 1-4,text,true,,270,130,25,25,http://localhost:3001/character/1,5,0,0
+1792253519921,5,GET Character by ID,200,OK,API Load Testing 1-11,text,true,,270,130,25,25,http://localhost:3001/character/1,5,0,0
+1792253519921,6,GET Character by ID,200,OK,API Load Testing 1-1,text,true,,270,130,25,25,http://localhost:3001/character/1,6,0,0
+1792253519921,6,GET Character by ID,200,OK,API Load Testing 1-16,text,true,,270,130,25,25,http://localhost:3001/character/1,6,0,0
+1792253519921,7,GET Character by ID,200,OK,API Load Testing 1-17,text,true,,270,130,25,25,http://localhost:3001/character/1,7,0,0
+1792253519921,8,GET Character by ID,200,OK,API Load Testing 1-8,text,true,,270,130,26,26,http://localhost:3001/character/1,8,0,0
+1792253519921,10,GET Character by ID,200,OK,API Load Testing 1-6,text,true,,270,130,26,26,http://localhost:3001/character/1,10,0,0
+1792253519921,11,GET Character by ID,200,OK,API Load Testing 1-14,text,true,,270,130,26,26,http://localhost:3001/character/1,11,0,0
+1792253519921,11,GET Character by ID,200,OK,API Load Testing 1-18,text,true,,270,130,26,26,http://localhost:3001/character/1,11,0,0
+1792253519922,12,GET Character by ID,200,OK,API Load Testing 1-13,text,true,,270,130,26,26,http://localhost:3001/character/1,12,0,0
+1792253519922,13,GET Character by ID,200,OK,API Load Testing 1-20,text,true,,270,130,26,26,http://localhost:3001/character/1,13,0,0
+1792253519922,13,GET Character by ID,200,OK,API Load Testing 1-12,text,true,,270,130,26,26,http://localhost:3001/character/1,13,0,0
+1792253519922,14,GET Character by ID,200,OK,API Load Testing 1-22,text,true,,270,130,26,26,http://localhost:3001/character/1,14,0,0
+1792253519922,14,GET Character by ID,200,OK,API Load Testing 1-7,text,true,,270,130,26,26,http://localhost:3001/character/1,14,0,0
+1792253519922,15,GET Character by ID,200,OK,API Load Testing 1-21,text,true,,270,130,26,26,http://localhost:3001/character/1,15,0,0
+1792253519922,15,GET Character by ID,200,OK,API Load Testing 1-5,text,true,,270,130,26,26,http://localhost:3001/character/1,15,0,0
+1792253519922,15,GET Character by ID,200,OK,API Load Testing 1-19,text,true,,270,130,26,26,http://localhost:3001/character/1,15,0,0
+1792253519922,16,GET Character by ID,200,OK,API Load Testing 1-15,text,true,,270,130,26,26,http://localhost:3001/character/1,16,0,0
+1792253519922,17,GET Character by ID,200,OK,API Load Testing 1-2,text,true,,270,130,27,27,http://localhost:3001/character/1,17,0,0
+1792253519922,17,GET Character by ID,200,OK,API Load Testing 1-9,text,true,,270,130,27,27,http://localhost:3001/character/1,17,0,0
+1792253519922,17,GET Character by ID,200,OK,API Load Testing 1-3,text,true,,270,130,27,27,http://localhost:3001/character/1,17,0,0
+1792253519919,21,GET All Characters,200,OK,API Load Testing 1-25,text,true,,454,129,27,27,http://localhost:3001/characters,21,0,3
+1792253519925,16,GET Character by ID,200,OK,API Load Testing 1-23,text,true,,270,130,27,27,http://localhost:3001/character/1,16,0,0
+1792253519925,16,GET Character by ID,200,OK,API Load Testing 1-24,text,true,,270,130,27,27,http://localhost:3001/character/1,16,0,0
+1792253519932,27,GET All Characters,200,OK,API Load Testing 1-26,text,true,,1229,129,29,29,http://localhost:3001/characters,27,0,1
+1792253519939,21,GET All Characters,200,OK,API Load Testing 1-27,text,true,,1229,129,29,29,http://localhost:3001/characters,21,0,1
+1792253519941,20,GET Character by ID,200,OK,API Load Testing 1-25,text,true,,270,130,29,29,http://localhost:3001/character/1,20,0,0
+1792253519948,15,GET All Characters,200,OK,API Load Testing 1-28,text,true,,1304,129,29,29,http://localhost:3001/characters,15,0,1
+1792253519959,4,GET All Characters,200,OK,API Load Testing 1-29,text,true,,1304,129,29,29,http://localhost:3001/characters,4,0,1
+1792253519960,5,GET Character by ID,200,OK,API Load Testing 1-26,text,true,,270,130,29,29,http://localhost:3001/character/1,5,0,0
+1792253519961,4,GET Character by ID,200,OK,API Load Testing 1-27,text,true,,270,130,29,29,http://localhost:3001/character/1,4,0,0
+1792253519963,4,GET Character by ID,200,OK,API Load Testing 1-28,text,true,,270,130,29,29,http://localhost:3001/character/1,4,0,0
+1792253519963,4,GET Character by ID,200,OK,API Load Testing 1-29,text,true,,270,130,29,29,http://localhost:3001/character/1,4,0,0
+1792253519980,5,GET All Characters,200,OK,API Load Testing 1-30,text,true,,1489,129,31,31,http://localhost:3001/characters,5,0,3
+1792253519985,2,GET Character by ID,200,OK,API Load Testing 1-30,text,true,,270,130,31,31,http://localhost:3001/character/1,1,0,0
+1792253519984,3,GET All Characters,200,OK,API Load Testing 1-31,text,true,,1489,129,31,31,http://localhost:3001/characters,3,0,2
+1792253519987,2,GET Character by ID,200,OK,API Load Testing 1-31,text,true,,270,130,32,32,http://localhost:3001/character/1,2,0,0
+1792253519990,3,GET All Characters,200,OK,API Load Testing 1-32,text,true,,1563,129,32,32,http://localhost:3001/characters,3,0,1
+1792253519993,1,GET Character by ID,200,OK,API Load Testing 1-32,text,true,,270,130,32,32,http://localhost:3001/character/1,1,0,0
+1792253519936,17,POST Create Character,201,Created,API Load Testing 1-22,text,true,,276,221,28,28,http://localhost:3001/character,17,0,0
+1792253519934,18,POST Create Character,201,Created,API Load Testing 1-13,text,true,,276,221,28,28,http://localhost:3001/character,18,0,0
+1792253519967,4,POST Create Character,201,Created,API Load Testing 1-28,text,true,,276,221,29,29,http://localhost:3001/character,4,0,0
+1792253519961,5,POST Create Character,201,Created,API Load Testing 1-25,text,true,,276,221,29,29,http://localhost:3001/character,5,0,0
+1792253519936,17,POST Create Character,201,Created,API Load Testing 1-12,text,true,,276,221,28,28,http://localhost:3001/character,17,0,0
+1792253519931,19,POST Create Character,201,Created,API Load Testing 1-6,text,true,,276,221,28,28,http://localhost:3001/character,19,0,0
+1792253519965,5,POST Create Character,201,Created,API Load Testing 1-27,text,true,,276,221,29,29,http://localhost:3001/character,5,0,0
+1792253519941,21,POST Create Character,201,Created,API Load Testing 1-23,text,true,,276,221,29,29,http://localhost:3001/character,21,0,0
+1792253519937,17,POST Create Character,201,Created,API Load Testing 1-21,text,true,,276,221,28,28,http://localhost:3001/character,17,0,0
+1792253519994,2,POST Create Character,201,Created,API Load Testing 1-32,text,true,,276,221,32,32,http://localhost:3001/character,2,0,0
+1792253519936,18,POST Create Character,201,Created,API Load Testing 1-7,text,true,,276,221,28,28,http://localhost:3001/character,18,0,0
+1792253519939,18,POST Create Character,201,Created,API Load Testing 1-9,text,true,,276,221,28,28,http://localhost:3001/character,18,0,0
+1792253519965,3,POST Create Character,201,Created,API Load Testing 1-26,text,true,,276,221,29,29,http://localhost:3001/character,3,0,0
+1792253519939,20,POST Create Character,201,Created,API Load Testing 1-3,text,true,,276,221,29,29,http://localhost:3001/character,20,0,0
+1792253519937,18,POST Create Character,201,Created,API Load Testing 1-5,text,true,,276,221,28,28,http://localhost:3001/character,18,0,0
+1792253519987,1,POST Create Character,201,Created,API Load Testing 1-30,text,true,,276,221,31,31,http://localhost:3001/character,1,0,0
+1792253519938,18,POST Create Character,201,Created,API Load Testing 1-19,text,true,,276,221,28,28,http://localhost:3001/character,18,0,0
+1792253519942,20,POST Create Character,201,Created,API Load Testing 1-24,text,true,,276,221,29,29,http://localhost:3001/character,20,0,0
+1792253519935,17,POST Create Character,201,Created,API Load Testing 1-20,text,true,,276,221,28,28,http://localhost:3001/character,17,0,0
+1792253519929,11,POST Create Character,201,Created,API Load Testing 1-8,text,true,,275,221,27,27,http://localhost:3001/character,11,0,0
+1792253519938,18,POST Create Character,201,Created,API Load Testing 1-15,text,true,,276,221,28,28,http://localhost:3001/character,18,0,0
+1792253519932,19,POST Create Character,201,Created,API Load Testing 1-14,text,true,,276,221,28,28,http://localhost:3001/character,19,0,0
+1792253519996,5,PUT Update Character,200,OK,API Load Testing 1-25,text,true,,270,222,33,33,http://localhost:3001/character/1,5,0,0
+1792253519926,17,POST Create Character,201,Created,API Load Testing 1-4,text,true,,275,221,27,27,http://localhost:3001/character,17,0,0
+1792253519996,5,PUT Update Character,200,OK,API Load Testing 1-27,text,true,,270,222,33,33,http://localhost:3001/character/1,5,0,0
+1792253519933,18,POST Create Character,201,Created,API Load Testing 1-18,text,true,,276,221,28,28,http://localhost:3001/character,18,0,0
+1792253519967,4,POST Create Character,201,Created,API Load Testing 1-29,text,true,,276,221,29,29,http://localhost:3001/character,4,0,0
+1792253519996,6,PUT Update Character,200,OK,API Load Testing 1-23,text,true,,270,222,33,33,http://localhost:3001/character/1,6,0,0
+1792253519996,6,PUT Update Character,200,OK,API Load Testing 1-21,text,true,,270,222,33,33,http://localhost:3001/character/1,6,0,0
+1792253519928,20,POST Create Character,201,Created,API Load Testing 1-17,text,true,,276,221,28,28,http://localhost:3001/character,20,0,0
+1792253519925,20,POST Create Character,201,Created,API Load Testing 1-10,text,true,,275,221,27,27,http://localhost:3001/character,19,0,0
+1792253519927,20,POST Create Character,201,Created,API Load Testing 1-11,text,true,,276,221,28,28,http://localhost:3001/character,20,0,0
+1792253519927,15,POST Create Character,201,Created,API Load Testing 1-1,text,true,,275,221,27,27,http://localhost:3001/character,15,0,0
+1792253519939,18,POST Create Character,201,Created,API Load Testing 1-2,text,true,,276,221,28,28,http://localhost:3001/character,18,0,0
+1792253519989,2,POST Create Character,201,Created,API Load Testing 1-31,text,true,,276,221,32,32,http://localhost:3001/character,2,0,0
+1792253519928,18,POST Create Character,201,Created,API Load Testing 1-16,text,true,,276,221,27,27,http://localhost:3001/character,18,0,0
+1792253519996,9,PUT Update Character,200,OK,API Load Testing 1-28,text,true,,270,222,33,33,http://localhost:3001/character/1,9,0,0
+1792253519996,10,PUT Update Character,200,OK,API Load Testing 1-32,text,true,,270,222,33,33,http://localhost:3001/character/1,10,0,0
+1792253519997,9,PUT Update Character,200,OK,API Load Testing 1-12,text,true,,270,222,33,33,http://localhost:3001/character/1,9,0,0
+1792253519997,10,PUT Update Character,200,OK,API Load Testing 1-7,text,true,,270,222,33,33,http://localhost:3001/character/1,10,0,0
+1792253519997,11,PUT Update Character,200,OK,API Load Testing 1-9,text,true,,270,222,33,33,http://localhost:3001/character/1,11,0,0
+1792253519997,11,PUT Update Character,200,OK,API Load Testing 1-13,text,true,,270,222,33,33,http://localhost:3001/character/1,11,0,0
+1792253519998,10,PUT Update Character,200,OK,API Load Testing 1-22,text,true,,270,222,33,33,http://localhost:3001/character/1,10,0,0
+1792253519998,11,PUT Update Character,200,OK,API Load Testing 1-26,text,true,,270,222,33,33,http://localhost:3001/character/1,11,0,0
+1792253519998,12,PUT Update Character,200,OK,API Load Testing 1-3,text,true,,270,222,34,34,http://localhost:3001/character/1,12,0,0
+1792253519998,13,PUT Update Character,200,OK,API Load Testing 1-5,text,true,,270,222,34,34,http://localhost:3001/character/1,13,0,0
+1792253519999,12,PUT Update Character,200,OK,API Load Testing 1-6,text,true,,270,222,34,34,http://localhost:3001/character/1,12,0,0
+1792253519999,16,PUT Update Character,200,OK,API Load Testing 1-30,text,true,,270,222,34,34,http://localhost:3001/character/1,16,0,0
+1792253519999,18,PUT Update Character,200,OK,API Load Testing 1-24,text,true,,270,222,34,34,http://localhost:3001/character/1,18,0,0
+1792253520002,18,DELETE character,200,OK,API Load Testing 1-21,text,true,,293,217,35,35,http://localhost:3001/character/21,18,0,0
+1792253520009,14,DELETE character,200,OK,API Load Testing 1-26,text,true,,293,217,34,34,http://localhost:3001/character/31,14,0,0
+1792253520015,8,DELETE character,200,OK,API Load Testing 1-30,text,true,,293,217,34,34,http://localhost:3001/character/35,8,0,0
+1792253520018,6,DELETE character,200,OK,API Load Testing 1-24,text,true,,293,217,32,32,http://localhost:3001/character/29,6,0,0
+1792253520000,25,PUT Update Character,200,OK,API Load Testing 1-20,text,true,,270,222,31,31,http://localhost:3001/character/1,25,0,0
+1792253520000,25,PUT Update Character,200,OK,API Load Testing 1-19,text,true,,270,222,31,31,http://localhost:3001/character/1,25,0,0
+1792253520000,27,PUT Update Character,200,OK,API Load Testing 1-8,text,true,,270,222,32,32,http://localhost:3001/character/1,27,0,0
+1792253520001,27,PUT Update Character,200,OK,API Load Testing 1-4,text,true,,270,222,32,32,http://localhost:3001/character/1,27,0,0
+1792253520001,27,DELETE character,200,OK,API Load Testing 1-27,text,true,,293,217,32,32,http://localhost:3001/character/32,27,0,0
+1792253520001,28,DELETE character,200,OK,API Load Testing 1-25,text,true,,293,217,32,32,http://localhost:3001/character/30,28,0,0
+1792253520002,27,PUT Update Character,200,OK,API Load Testing 1-14,text,true,,270,222,31,31,http://localhost:3001/character/1,27,0,0
+1792253520002,28,DELETE character,200,OK,API Load Testing 1-23,text,true,,293,217,30,30,http://localhost:3001/character/28,28,0,0
+1792253520002,30,PUT Update Character,200,OK,API Load Testing 1-18,text,true,,270,222,29,29,http://localhost:3001/character/1,29,0,0
+1792253520002,32,PUT Update Character,200,OK,API Load Testing 1-29,text,true,,270,222,29,29,http://localhost:3001/character/1,32,0,0
+1792253520002,33,PUT Update Character,200,OK,API Load Testing 1-17,text,true,,270,222,29,29,http://localhost:3001/character/1,33,0,0
+1792253520003,33,PUT Update Character,200,OK,API Load Testing 1-10,text,true,,270,222,29,29,http://localhost:3001/character/1,33,0,0
+1792253520003,34,PUT Update Character,200,OK,API Load Testing 1-1,text,true,,270,222,29,29,http://localhost:3001/character/1,33,0,0
+1792253520004,33,PUT Update Character,200,OK,API Load Testing 1-31,text,true,,270,222,29,29,http://localhost:3001/character/1,33,0,0
+1792253520003,35,PUT Update Character,200,OK,API Load Testing 1-2,text,true,,270,222,30,30,http://localhost:3001/character/1,35,0,0
+1792253520004,35,PUT Update Character,200,OK,API Load Testing 1-16,text,true,,270,222,30,30,http://localhost:3001/character/1,35,0,0
+1792253520004,36,PUT Update Character,200,OK,API Load Testing 1-11,text,true,,270,222,30,30,http://localhost:3001/character/1,36,0,0
+1792253520004,36,PUT Update Character,200,OK,API Load Testing 1-15,text,true,,270,222,30,30,http://localhost:3001/character/1,36,0,0
+1792253520005,36,DELETE character,200,OK,API Load Testing 1-28,text,true,,293,217,30,30,http://localhost:3001/character/33,36,0,0
+1792253520006,36,DELETE character,200,OK,API Load Testing 1-32,text,true,,293,217,29,29,http://localhost:3001/character/37,36,0,0
+1792253520007,36,DELETE character,200,OK,API Load Testing 1-12,text,true,,293,217,28,28,http://localhost:3001/character/18,36,0,0
+1792253520007,37,DELETE character,200,OK,API Load Testing 1-7,text,true,,293,217,27,27,http://localhost:3001/character/20,37,0,0
+1792253520008,37,DELETE character,200,OK,API Load Testing 1-9,text,true,,293,217,26,26,http://localhost:3001/character/26,37,0,0
+1792253520008,38,DELETE character,200,OK,API Load Testing 1-13,text,true,,293,217,25,25,http://localhost:3001/character/16,38,0,0
+1792253520008,39,DELETE character,200,OK,API Load Testing 1-22,text,true,,293,217,24,24,http://localhost:3001/character/19,39,0,0
+1792253520011,36,DELETE character,200,OK,API Load Testing 1-3,text,true,,293,217,24,24,http://localhost:3001/character/27,36,0,0
+1792253520011,37,DELETE character,200,OK,API Load Testing 1-5,text,true,,293,217,23,23,http://localhost:3001/character/22,37,0,0
+1792253520012,36,DELETE character,200,OK,API Load Testing 1-6,text,true,,293,217,23,23,http://localhost:3001/character/13,36,0,0
+1792253520000,49,GET All Characters,200,OK,API Load Testing 1-33,text,true,,970,129,21,21,http://localhost:3001/characters,49,0,2
+1792253520012,38,GET All Characters,200,OK,API Load Testing 1-34,text,true,,970,129,21,21,http://localhost:3001/characters,38,0,2
+1792253520019,31,GET All Characters,200,OK,API Load Testing 1-35,text,true,,970,129,21,21,http://localhost:3001/characters,31,0,1
+1792253520025,27,DELETE character,200,OK,API Load Testing 1-20,text,true,,293,217,21,21,http://localhost:3001/character/17,27,0,0
+1792253520026,27,DELETE character,200,OK,API Load Testing 1-19,text,true,,293,217,21,21,http://localhost:3001/character/23,27,0,0
+1792253520027,27,DELETE character,200,OK,API Load Testing 1-8,text,true,,293,216,19,19,http://localhost:3001/character/6,27,0,0
+1792253520028,27,DELETE character,200,OK,API Load Testing 1-4,text,true,,293,216,18,18,http://localhost:3001/character/8,27,0,0
+1792253520029,28,DELETE character,200,OK,API Load Testing 1-14,text,true,,293,217,18,18,http://localhost:3001/character/14,28,0,0
+1792253520032,26,DELETE character,200,OK,API Load Testing 1-18,text,true,,293,217,17,17,http://localhost:3001/character/15,26,0,0
+1792253520035,23,DELETE character,200,OK,API Load Testing 1-29,text,true,,293,217,16,16,http://localhost:3001/character/34,23,0,0
+1792253520036,23,DELETE character,200,OK,API Load Testing 1-17,text,true,,293,217,15,15,http://localhost:3001/character/12,23,0,0
+1792253520036,24,DELETE character,200,OK,API Load Testing 1-10,text,true,,293,216,14,14,http://localhost:3001/character/9,24,0,0
+1792253520037,24,DELETE character,200,OK,API Load Testing 1-1,text,true,,293,216,13,13,http://localhost:3001/character/7,24,0,0
+1792253520038,23,DELETE character,200,OK,API Load Testing 1-31,text,true,,293,217,12,12,http://localhost:3001/character/36,23,0,0
+1792253520038,24,DELETE character,200,OK,API Load Testing 1-2,text,true,,293,217,11,11,http://localhost:3001/character/25,24,0,0
+1792253520040,22,DELETE character,200,OK,API Load Testing 1-16,text,true,,293,217,10,10,http://localhost:3001/character/10,22,0,0
+1792253520040,23,DELETE character,200,OK,API Load Testing 1-11,text,true,,293,217,9,9,http://localhost:3001/character/11,23,0,0
+1792253520041,24,DELETE character,200,OK,API Load Testing 1-15,text,true,,293,217,8,8,http://localhost:3001/character/24,24,0,0
+1792253520050,17,GET Character by ID,200,OK,API Load Testing 1-33,text,true,,270,130,8,8,http://localhost:3001/character/1,17,0,0
+1792253520050,18,GET Character by ID,200,OK,API Load Testing 1-34,text,true,,270,130,8,8,http://localhost:3001/character/1,18,0,0
+1792253520050,18,GET Character by ID,200,OK,API Load Testing 1-35,text,true,,270,130,8,8,http://localhost:3001/character/1,18,0,0
+1792253520027,42,GET All Characters,200,OK,API Load Testing 1-36,text,true,,418,129,8,8,http://localhost:3001/characters,42,0,1
+1792253520038,32,GET All Characters,200,OK,API Load Testing 1-37,text,true,,418,129,8,8,http://localhost:3001/characters,32,0,1
+1792253520048,25,GET All Characters,200,OK,API Load Testing 1-38,text,true,,418,129,8,8,http://localhost:3001/characters,25,0,1
+1792253520068,8,POST Create Character,201,Created,API Load Testing 1-33,text,true,,275,221,8,8,http://localhost:3001/character,8,0,0
+1792253520068,9,POST Create Character,201,Created,API Load Testing 1-34,text,true,,275,221,9,9,http://localhost:3001/character,9,0,0
+1792253520068,10,POST Create Character,201,Created,API Load Testing 1-35,text,true,,275,221,9,9,http://localhost:3001/character,10,0,0
+1792253520069,9,GET Character by ID,200,OK,API Load Testing 1-36,text,true,,270,130,9,9,http://localhost:3001/character/1,9,0,0
+1792253520070,9,GET Character by ID,200,OK,API Load Testing 1-37,text,true,,270,130,9,9,http://localhost:3001/character/1,9,0,0
+1792253520058,24,GET All Characters,200,OK,API Load Testing 1-39,text,true,,527,129,9,9,http://localhost:3001/characters,24,0,0
+1792253520067,17,GET All Characters,200,OK,API Load Testing 1-40,text,true,,527,129,9,9,http://localhost:3001/characters,17,0,2
+1792253520073,12,GET Character by ID,200,OK,API Load Testing 1-38,text,true,,270,130,9,9,http://localhost:3001/character/1,12,0,0
+1792253520077,9,PUT Update Character,200,OK,API Load Testing 1-33,text,true,,270,222,10,10,http://localhost:3001/character/1,9,0,0
+1792253520078,9,PUT Update Character,200,OK,API Load Testing 1-34,text,true,,270,222,10,10,http://localhost:3001/character/1,9,0,0
+1792253520078,9,PUT Update Character,200,OK,API Load Testing 1-35,text,true,,270,222,10,10,http://localhost:3001/character/1,9,0,0
+1792253520078,10,POST Create Character,201,Created,API Load Testing 1-36,text,true,,275,221,10,10,http://localhost:3001/character,10,0,0
+1792253520083,6,GET Character by ID,200,OK,API Load Testing 1-39,text,true,,270,130,10,10,http://localhost:3001/character/1,6,0,0
+1792253520079,10,POST Create Character,201,Created,API Load Testing 1-37,text,true,,276,221,10,10,http://localhost:3001/character,10,0,0
+1792253520077,13,GET All Characters,200,OK,API Load Testing 1-41,text,true,,600,129,10,10,http://localhost:3001/characters,13,0,1
+1792253520084,6,GET Character by ID,200,OK,API Load Testing 1-40,text,true,,270,130,10,10,http://localhost:3001/character/1,6,0,0
+1792253520086,5,POST Create Character,201,Created,API Load Testing 1-38,text,true,,276,221,10,10,http://localhost:3001/character,5,0,0
+1792253520086,6,DELETE character,200,OK,API Load Testing 1-33,text,true,,293,216,10,10,http://localhost:3001/character/6,6,0,0
+1792253520087,5,DELETE character,200,OK,API Load Testing 1-34,text,true,,293,216,10,10,http://localhost:3001/character/7,5,0,0
+1792253520088,6,DELETE character,200,OK,API Load Testing 1-35,text,true,,293,216,8,8,http://localhost:3001/character/8,6,0,0
+1792253520089,5,PUT Update Character,200,OK,API Load Testing 1-36,text,true,,270,222,8,8,http://localhost:3001/character/1,5,0,0
+1792253520087,8,GET All Characters,200,OK,API Load Testing 1-42,text,true,,529,129,7,7,http://localhost:3001/characters,8,0,1
+1792253520090,5,POST Create Character,201,Created,API Load Testing 1-39,text,true,,275,221,7,7,http://localhost:3001/character,5,0,0
+1792253520089,7,PUT Update Character,200,OK,API Load Testing 1-37,text,true,,270,222,7,7,http://localhost:3001/character/1,7,0,0
+1792253520090,6,GET Character by ID,200,OK,API Load Testing 1-41,text,true,,270,130,7,7,http://localhost:3001/character/1,6,0,0
+1792253520091,5,POST Create Character,201,Created,API Load Testing 1-40,text,true,,276,221,7,7,http://localhost:3001/character,5,0,0
+1792253520092,6,PUT Update Character,200,OK,API Load Testing 1-38,text,true,,270,222,8,8,http://localhost:3001/character/1,6,0,0
+1792253520095,5,DELETE character,200,OK,API Load Testing 1-36,text,true,,293,216,8,8,http://localhost:3001/character/9,5,0,0
+1792253520095,6,GET Character by ID,200,OK,API Load Testing 1-42,text,true,,270,130,7,7,http://localhost:3001/character/1,6,0,0
+1792253520096,7,PUT Update Character,200,OK,API Load Testing 1-39,text,true,,270,222,7,7,http://localhost:3001/character/1,7,0,0
+1792253520096,9,DELETE character,200,OK,API Load Testing 1-37,text,true,,293,217,7,7,http://localhost:3001/character/10,9,0,0
+1792253520096,9,POST Create Character,201,Created,API Load Testing 1-41,text,true,,275,221,6,6,http://localhost:3001/character,9,0,0
+1792253520097,9,PUT Update Character,200,OK,API Load Testing 1-40,text,true,,270,222,6,6,http://localhost:3001/character/1,9,0,0
+1792253520101,6,POST Create Character,201,Created,API Load Testing 1-42,text,true,,276,221,6,6,http://localhost:3001/character,6,0,0
+1792253520098,10,DELETE character,200,OK,API Load Testing 1-38,text,true,,293,217,7,7,http://localhost:3001/character/11,10,0,0
+1792253520104,5,DELETE character,200,OK,API Load Testing 1-39,text,true,,293,216,6,6,http://localhost:3001/character/9,5,0,0
+1792253520106,3,DELETE character,200,OK,API Load Testing 1-40,text,true,,293,217,5,5,http://localhost:3001/character/10,3,0,0
+1792253520106,4,PUT Update Character,200,OK,API Load Testing 1-41,text,true,,270,222,4,4,http://localhost:3001/character/1,4,0,0
+1792253520099,12,GET All Characters,200,OK,API Load Testing 1-43,text,true,,491,129,4,4,http://localhost:3001/characters,12,0,1
+1792253520107,5,PUT Update Character,200,OK,API Load Testing 1-42,text,true,,270,222,4,4,http://localhost:3001/character/1,5,0,0
+1792253520110,3,DELETE character,200,OK,API Load Testing 1-41,text,true,,293,216,4,4,http://localhost:3001/character/9,3,0,0
+1792253520107,7,GET All Characters,200,OK,API Load Testing 1-44,text,true,,455,129,3,3,http://localhost:3001/characters,7,0,2
+1792253520111,4,GET Character by ID,200,OK,API Load Testing 1-43,text,true,,270,130,3,3,http://localhost:3001/character/1,4,0,0
+1792253520112,5,DELETE character,200,OK,API Load Testing 1-42,text,true,,293,217,3,3,http://localhost:3001/character/10,5,0,0
+1792253520114,3,GET Character by ID,200,OK,API Load Testing 1-44,text,true,,270,130,3,3,http://localhost:3001/character/1,3,0,0
+1792253520116,3,POST Create Character,201,Created,API Load Testing 1-43,text,true,,275,221,3,3,http://localhost:3001/character,3,0,0
+1792253520118,2,POST Create Character,201,Created,API Load Testing 1-44,text,true,,275,221,3,3,http://localhost:3001/character,2,0,0
+1792253520120,1,PUT Update Character,200,OK,API Load Testing 1-43,text,true,,270,222,3,3,http://localhost:3001/character/1,1,0,0
+1792253520120,1,GET All Characters,200,OK,API Load Testing 1-45,text,true,,490,129,3,3,http://localhost:3001/characters,1,0,1
+1792253520121,1,PUT Update Character,200,OK,API Load Testing 1-44,text,true,,270,222,3,3,http://localhost:3001/character/1,1,0,0
+1792253520121,1,DELETE character,200,OK,API Load Testing 1-43,text,true,,293,216,3,3,http://localhost:3001/character/6,1,0,0
+1792253520122,1,GET Character by ID,200,OK,API Load Testing 1-45,text,true,,270,130,3,3,http://localhost:3001/character/1,1,0,0
+1792253520122,1,DELETE character,200,OK,API Load Testing 1-44,text,true,,293,216,2,2,http://localhost:3001/character/7,1,0,0
+1792253520123,1,POST Create Character,201,Created,API Load Testing 1-45,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520124,2,PUT Update Character,200,OK,API Load Testing 1-45,text,true,,270,222,1,1,http://localhost:3001/character/1,2,0,0
+1792253520126,1,DELETE character,200,OK,API Load Testing 1-45,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520130,3,GET All Characters,200,OK,API Load Testing 1-46,text,true,,418,129,1,1,http://localhost:3001/characters,3,0,2
+1792253520133,1,GET Character by ID,200,OK,API Load Testing 1-46,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520134,2,POST Create Character,201,Created,API Load Testing 1-46,text,true,,275,221,1,1,http://localhost:3001/character,2,0,0
+1792253520136,1,PUT Update Character,200,OK,API Load Testing 1-46,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520137,2,DELETE character,200,OK,API Load Testing 1-46,text,true,,293,216,1,1,http://localhost:3001/character/6,2,0,0
+1792253520142,2,GET All Characters,200,OK,API Load Testing 1-47,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520144,2,GET Character by ID,200,OK,API Load Testing 1-47,text,true,,270,130,1,1,http://localhost:3001/character/1,2,0,0
+1792253520146,1,POST Create Character,201,Created,API Load Testing 1-47,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520148,1,PUT Update Character,200,OK,API Load Testing 1-47,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520150,1,DELETE character,200,OK,API Load Testing 1-47,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520155,2,GET All Characters,200,OK,API Load Testing 1-48,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520157,1,GET Character by ID,200,OK,API Load Testing 1-48,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520158,1,POST Create Character,201,Created,API Load Testing 1-48,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520160,1,PUT Update Character,200,OK,API Load Testing 1-48,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520161,1,DELETE character,200,OK,API Load Testing 1-48,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520165,2,GET All Characters,200,OK,API Load Testing 1-49,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520168,1,GET Character by ID,200,OK,API Load Testing 1-49,text,true,,270,130,2,2,http://localhost:3001/character/1,1,0,0
+1792253520169,1,POST Create Character,201,Created,API Load Testing 1-49,text,true,,275,221,2,2,http://localhost:3001/character,1,0,0
+1792253520169,2,GET All Characters,200,OK,API Load Testing 1-50,text,true,,454,129,2,2,http://localhost:3001/characters,2,0,1
+1792253520171,1,GET Character by ID,200,OK,API Load Testing 1-50,text,true,,270,130,2,2,http://localhost:3001/character/1,1,0,0
+1792253520171,1,PUT Update Character,200,OK,API Load Testing 1-49,text,true,,270,222,2,2,http://localhost:3001/character/1,1,0,0
+1792253520172,1,POST Create Character,201,Created,API Load Testing 1-50,text,true,,275,221,2,2,http://localhost:3001/character,1,0,0
+1792253520173,0,DELETE character,200,OK,API Load Testing 1-49,text,true,,293,216,2,2,http://localhost:3001/character/6,0,0,0
+1792253520173,2,PUT Update Character,200,OK,API Load Testing 1-50,text,true,,270,222,1,1,http://localhost:3001/character/1,2,0,0
+1792253520175,1,DELETE character,200,OK,API Load Testing 1-50,text,true,,293,216,1,1,http://localhost:3001/character/7,1,0,0
+1792253520182,3,GET All Characters,200,OK,API Load Testing 1-51,text,true,,418,129,1,1,http://localhost:3001/characters,3,0,2
+1792253520185,2,GET Character by ID,200,OK,API Load Testing 1-51,text,true,,270,130,1,1,http://localhost:3001/character/1,2,0,0
+1792253520187,1,POST Create Character,201,Created,API Load Testing 1-51,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520189,1,PUT Update Character,200,OK,API Load Testing 1-51,text,true,,270,222,2,2,http://localhost:3001/character/1,1,0,0
+1792253520191,1,DELETE character,200,OK,API Load Testing 1-51,text,true,,293,216,2,2,http://localhost:3001/character/6,1,0,0
+1792253520191,2,GET All Characters,200,OK,API Load Testing 1-52,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520193,2,GET Character by ID,200,OK,API Load Testing 1-52,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520195,1,POST Create Character,201,Created,API Load Testing 1-52,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520197,2,PUT Update Character,200,OK,API Load Testing 1-52,text,true,,270,222,1,1,http://localhost:3001/character/1,2,0,0
+1792253520199,2,DELETE character,200,OK,API Load Testing 1-52,text,true,,293,216,1,1,http://localhost:3001/character/6,2,0,0
+1792253520204,2,GET All Characters,200,OK,API Load Testing 1-53,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520207,1,GET Character by ID,200,OK,API Load Testing 1-53,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520208,1,POST Create Character,201,Created,API Load Testing 1-53,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520210,0,PUT Update Character,200,OK,API Load Testing 1-53,text,true,,270,222,1,1,http://localhost:3001/character/1,0,0,0
+1792253520211,0,DELETE character,200,OK,API Load Testing 1-53,text,true,,293,216,1,1,http://localhost:3001/character/6,0,0,0
+1792253520215,2,GET All Characters,200,OK,API Load Testing 1-54,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520218,1,GET Character by ID,200,OK,API Load Testing 1-54,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520220,1,POST Create Character,201,Created,API Load Testing 1-54,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520221,1,PUT Update Character,200,OK,API Load Testing 1-54,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520222,1,DELETE character,200,OK,API Load Testing 1-54,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520225,2,GET All Characters,200,OK,API Load Testing 1-55,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520227,1,GET Character by ID,200,OK,API Load Testing 1-55,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520229,1,POST Create Character,201,Created,API Load Testing 1-55,text,true,,275,221,2,2,http://localhost:3001/character,1,0,0
+1792253520230,2,PUT Update Character,200,OK,API Load Testing 1-55,text,true,,270,222,2,2,http://localhost:3001/character/1,2,0,0
+1792253520231,1,GET All Characters,200,OK,API Load Testing 1-56,text,true,,454,129,2,2,http://localhost:3001/characters,1,0,1
+1792253520232,1,DELETE character,200,OK,API Load Testing 1-55,text,true,,293,216,2,2,http://localhost:3001/character/6,1,0,0
+1792253520233,1,GET Character by ID,200,OK,API Load Testing 1-56,text,true,,270,130,2,2,http://localhost:3001/character/1,1,0,0
+1792253520234,2,POST Create Character,201,Created,API Load Testing 1-56,text,true,,275,221,1,1,http://localhost:3001/character,2,0,0
+1792253520236,2,PUT Update Character,200,OK,API Load Testing 1-56,text,true,,270,222,1,1,http://localhost:3001/character/1,2,0,0
+1792253520238,1,DELETE character,200,OK,API Load Testing 1-56,text,true,,293,216,2,2,http://localhost:3001/character/6,1,0,0
+1792253520239,1,GET All Characters,200,OK,API Load Testing 1-57,text,true,,418,129,1,1,http://localhost:3001/characters,1,0,1
+1792253520241,0,GET Character by ID,200,OK,API Load Testing 1-57,text,true,,270,130,1,1,http://localhost:3001/character/1,0,0,0
+1792253520241,1,POST Create Character,201,Created,API Load Testing 1-57,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520243,1,PUT Update Character,200,OK,API Load Testing 1-57,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520244,1,DELETE character,200,OK,API Load Testing 1-57,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520250,2,GET All Characters,200,OK,API Load Testing 1-58,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,0
+1792253520252,1,GET Character by ID,200,OK,API Load Testing 1-58,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520253,1,POST Create Character,201,Created,API Load Testing 1-58,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520254,1,PUT Update Character,200,OK,API Load Testing 1-58,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520256,1,DELETE character,200,OK,API Load Testing 1-58,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520258,2,GET All Characters,200,OK,API Load Testing 1-59,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520260,1,GET Character by ID,200,OK,API Load Testing 1-59,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520261,1,POST Create Character,201,Created,API Load Testing 1-59,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520262,1,PUT Update Character,200,OK,API Load Testing 1-59,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520264,0,DELETE character,200,OK,API Load Testing 1-59,text,true,,293,216,1,1,http://localhost:3001/character/6,0,0,0
+1792253520270,2,GET All Characters,200,OK,API Load Testing 1-60,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520272,1,GET Character by ID,200,OK,API Load Testing 1-60,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520273,2,POST Create Character,201,Created,API Load Testing 1-60,text,true,,275,221,1,1,http://localhost:3001/character,2,0,0
+1792253520275,1,PUT Update Character,200,OK,API Load Testing 1-60,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520277,0,DELETE character,200,OK,API Load Testing 1-60,text,true,,293,216,1,1,http://localhost:3001/character/6,0,0,0
+1792253520278,2,GET All Characters,200,OK,API Load Testing 1-61,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520281,0,GET Character by ID,200,OK,API Load Testing 1-61,text,true,,270,130,1,1,http://localhost:3001/character/1,0,0,0
+1792253520282,4,POST Create Character,201,Created,API Load Testing 1-61,text,true,,275,221,1,1,http://localhost:3001/character,4,0,0
+1792253520287,1,PUT Update Character,200,OK,API Load Testing 1-61,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520289,1,DELETE character,200,OK,API Load Testing 1-61,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520291,2,GET All Characters,200,OK,API Load Testing 1-62,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520293,1,GET Character by ID,200,OK,API Load Testing 1-62,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520294,1,POST Create Character,201,Created,API Load Testing 1-62,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520295,1,PUT Update Character,200,OK,API Load Testing 1-62,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520296,1,DELETE character,200,OK,API Load Testing 1-62,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520299,2,GET All Characters,200,OK,API Load Testing 1-63,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520302,1,GET Character by ID,200,OK,API Load Testing 1-63,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520303,1,POST Create Character,201,Created,API Load Testing 1-63,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520305,1,PUT Update Character,200,OK,API Load Testing 1-63,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520306,1,DELETE character,200,OK,API Load Testing 1-63,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520308,1,GET All Characters,200,OK,API Load Testing 1-64,text,true,,418,129,1,1,http://localhost:3001/characters,1,0,1
+1792253520310,0,GET Character by ID,200,OK,API Load Testing 1-64,text,true,,270,130,1,1,http://localhost:3001/character/1,0,0,0
+1792253520310,1,POST Create Character,201,Created,API Load Testing 1-64,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520312,1,PUT Update Character,200,OK,API Load Testing 1-64,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520313,2,DELETE character,200,OK,API Load Testing 1-64,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520318,2,GET All Characters,200,OK,API Load Testing 1-65,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520321,0,GET Character by ID,200,OK,API Load Testing 1-65,text,true,,270,130,1,1,http://localhost:3001/character/1,0,0,0
+1792253520322,1,POST Create Character,201,Created,API Load Testing 1-65,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520323,1,PUT Update Character,200,OK,API Load Testing 1-65,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520324,1,DELETE character,200,OK,API Load Testing 1-65,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520329,1,GET All Characters,200,OK,API Load Testing 1-66,text,true,,418,129,1,1,http://localhost:3001/characters,1,0,0
+1792253520330,1,GET Character by ID,200,OK,API Load Testing 1-66,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520331,1,POST Create Character,201,Created,API Load Testing 1-66,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520333,1,PUT Update Character,200,OK,API Load Testing 1-66,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520334,1,DELETE character,200,OK,API Load Testing 1-66,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520338,2,GET All Characters,200,OK,API Load Testing 1-67,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520340,1,GET Character by ID,200,OK,API Load Testing 1-67,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520341,1,POST Create Character,201,Created,API Load Testing 1-67,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520342,1,PUT Update Character,200,OK,API Load Testing 1-67,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520343,1,DELETE character,200,OK,API Load Testing 1-67,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520348,1,GET All Characters,200,OK,API Load Testing 1-68,text,true,,418,129,1,1,http://localhost:3001/characters,1,0,0
+1792253520350,0,GET Character by ID,200,OK,API Load Testing 1-68,text,true,,270,130,1,1,http://localhost:3001/character/1,0,0,0
+1792253520351,1,POST Create Character,201,Created,API Load Testing 1-68,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520352,1,PUT Update Character,200,OK,API Load Testing 1-68,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520353,2,DELETE character,200,OK,API Load Testing 1-68,text,true,,293,216,1,1,http://localhost:3001/character/6,2,0,0
+1792253520357,2,GET All Characters,200,OK,API Load Testing 1-69,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520359,0,GET Character by ID,200,OK,API Load Testing 1-69,text,true,,270,130,1,1,http://localhost:3001/character/1,0,0,0
+1792253520360,0,POST Create Character,201,Created,API Load Testing 1-69,text,true,,275,221,1,1,http://localhost:3001/character,0,0,0
+1792253520361,0,PUT Update Character,200,OK,API Load Testing 1-69,text,true,,270,222,1,1,http://localhost:3001/character/1,0,0,0
+1792253520361,1,DELETE character,200,OK,API Load Testing 1-69,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520368,2,GET All Characters,200,OK,API Load Testing 1-70,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520370,1,GET Character by ID,200,OK,API Load Testing 1-70,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520371,1,POST Create Character,201,Created,API Load Testing 1-70,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520373,1,PUT Update Character,200,OK,API Load Testing 1-70,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520375,1,DELETE character,200,OK,API Load Testing 1-70,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520379,3,GET All Characters,200,OK,API Load Testing 1-71,text,true,,418,129,1,1,http://localhost:3001/characters,3,0,2
+1792253520382,1,GET Character by ID,200,OK,API Load Testing 1-71,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520383,1,POST Create Character,201,Created,API Load Testing 1-71,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520385,1,PUT Update Character,200,OK,API Load Testing 1-71,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520387,1,DELETE character,200,OK,API Load Testing 1-71,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520394,2,GET All Characters,200,OK,API Load Testing 1-72,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520397,0,GET Character by ID,200,OK,API Load Testing 1-72,text,true,,270,130,1,1,http://localhost:3001/character/1,0,0,0
+1792253520398,1,POST Create Character,201,Created,API Load Testing 1-72,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520399,1,PUT Update Character,200,OK,API Load Testing 1-72,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520400,1,DELETE character,200,OK,API Load Testing 1-72,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520405,2,GET All Characters,200,OK,API Load Testing 1-73,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520407,1,GET Character by ID,200,OK,API Load Testing 1-73,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520408,1,POST Create Character,201,Created,API Load Testing 1-73,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520409,1,PUT Update Character,200,OK,API Load Testing 1-73,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520410,1,DELETE character,200,OK,API Load Testing 1-73,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520416,1,GET All Characters,200,OK,API Load Testing 1-74,text,true,,418,129,1,1,http://localhost:3001/characters,1,0,0
+1792253520418,1,GET Character by ID,200,OK,API Load Testing 1-74,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520419,1,POST Create Character,201,Created,API Load Testing 1-74,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520421,0,PUT Update Character,200,OK,API Load Testing 1-74,text,true,,270,222,1,1,http://localhost:3001/character/1,0,0,0
+1792253520422,1,DELETE character,200,OK,API Load Testing 1-74,text,true,,293,216,1,1,http://localhost:3001/character/6,0,0,0
+1792253520426,1,GET All Characters,200,OK,API Load Testing 1-75,text,true,,418,129,1,1,http://localhost:3001/characters,1,0,0
+1792253520427,1,GET Character by ID,200,OK,API Load Testing 1-75,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520428,1,POST Create Character,201,Created,API Load Testing 1-75,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520429,1,PUT Update Character,200,OK,API Load Testing 1-75,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520430,1,DELETE character,200,OK,API Load Testing 1-75,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520437,2,GET All Characters,200,OK,API Load Testing 1-76,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520439,1,GET Character by ID,200,OK,API Load Testing 1-76,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520440,1,POST Create Character,201,Created,API Load Testing 1-76,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520441,1,PUT Update Character,200,OK,API Load Testing 1-76,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520442,1,DELETE character,200,OK,API Load Testing 1-76,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520445,2,GET All Characters,200,OK,API Load Testing 1-77,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520447,1,GET Character by ID,200,OK,API Load Testing 1-77,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520448,1,POST Create Character,201,Created,API Load Testing 1-77,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520450,1,PUT Update Character,200,OK,API Load Testing 1-77,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520451,1,DELETE character,200,OK,API Load Testing 1-77,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520454,1,GET All Characters,200,OK,API Load Testing 1-78,text,true,,418,129,1,1,http://localhost:3001/characters,1,0,1
+1792253520455,1,GET Character by ID,200,OK,API Load Testing 1-78,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520456,1,POST Create Character,201,Created,API Load Testing 1-78,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520457,1,PUT Update Character,200,OK,API Load Testing 1-78,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520458,1,DELETE character,200,OK,API Load Testing 1-78,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520465,2,GET All Characters,200,OK,API Load Testing 1-79,text,true,,418,129,1,1,http://localhost:3001/characters,1,0,0
+1792253520467,1,GET Character by ID,200,OK,API Load Testing 1-79,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520468,1,POST Create Character,201,Created,API Load Testing 1-79,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520470,0,PUT Update Character,200,OK,API Load Testing 1-79,text,true,,270,222,1,1,http://localhost:3001/character/1,0,0,0
+1792253520471,1,DELETE character,200,OK,API Load Testing 1-79,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520476,1,GET All Characters,200,OK,API Load Testing 1-80,text,true,,418,129,1,1,http://localhost:3001/characters,1,0,0
+1792253520477,1,GET Character by ID,200,OK,API Load Testing 1-80,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520478,1,POST Create Character,201,Created,API Load Testing 1-80,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520480,0,PUT Update Character,200,OK,API Load Testing 1-80,text,true,,270,222,1,1,http://localhost:3001/character/1,0,0,0
+1792253520481,1,DELETE character,200,OK,API Load Testing 1-80,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520484,1,GET All Characters,200,OK,API Load Testing 1-81,text,true,,418,129,1,1,http://localhost:3001/characters,1,0,0
+1792253520486,0,GET Character by ID,200,OK,API Load Testing 1-81,text,true,,270,130,1,1,http://localhost:3001/character/1,0,0,0
+1792253520486,1,POST Create Character,201,Created,API Load Testing 1-81,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520488,0,PUT Update Character,200,OK,API Load Testing 1-81,text,true,,270,222,1,1,http://localhost:3001/character/1,0,0,0
+1792253520488,1,DELETE character,200,OK,API Load Testing 1-81,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520493,2,GET All Characters,200,OK,API Load Testing 1-82,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520495,1,GET Character by ID,200,OK,API Load Testing 1-82,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520496,1,POST Create Character,201,Created,API Load Testing 1-82,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520497,1,PUT Update Character,200,OK,API Load Testing 1-82,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520498,2,DELETE character,200,OK,API Load Testing 1-82,text,true,,293,216,1,1,http://localhost:3001/character/6,2,0,0
+1792253520502,2,GET All Characters,200,OK,API Load Testing 1-83,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520504,1,GET Character by ID,200,OK,API Load Testing 1-83,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520505,1,POST Create Character,201,Created,API Load Testing 1-83,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520506,1,PUT Update Character,200,OK,API Load Testing 1-83,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520507,1,DELETE character,200,OK,API Load Testing 1-83,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520515,2,GET All Characters,200,OK,API Load Testing 1-84,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520518,1,GET Character by ID,200,OK,API Load Testing 1-84,text,true,,270,130,1,1,http://localhost:3001/character/1,0,0,0
+1792253520519,1,POST Create Character,201,Created,API Load Testing 1-84,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520520,1,PUT Update Character,200,OK,API Load Testing 1-84,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520521,1,DELETE character,200,OK,API Load Testing 1-84,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520523,1,GET All Characters,200,OK,API Load Testing 1-85,text,true,,418,129,1,1,http://localhost:3001/characters,1,0,1
+1792253520525,0,GET Character by ID,200,OK,API Load Testing 1-85,text,true,,270,130,1,1,http://localhost:3001/character/1,0,0,0
+1792253520525,1,POST Create Character,201,Created,API Load Testing 1-85,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520527,0,PUT Update Character,200,OK,API Load Testing 1-85,text,true,,270,222,1,1,http://localhost:3001/character/1,0,0,0
+1792253520527,1,DELETE character,200,OK,API Load Testing 1-85,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520531,2,GET All Characters,200,OK,API Load Testing 1-86,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520534,1,GET Character by ID,200,OK,API Load Testing 1-86,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520535,1,POST Create Character,201,Created,API Load Testing 1-86,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520536,1,PUT Update Character,200,OK,API Load Testing 1-86,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520537,1,DELETE character,200,OK,API Load Testing 1-86,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520541,2,GET All Characters,200,OK,API Load Testing 1-87,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520543,1,GET Character by ID,200,OK,API Load Testing 1-87,text,true,,270,130,1,1,http://localhost:3001/character/1,0,0,0
+1792253520544,0,POST Create Character,201,Created,API Load Testing 1-87,text,true,,275,221,1,1,http://localhost:3001/character,0,0,0
+1792253520545,1,PUT Update Character,200,OK,API Load Testing 1-87,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520546,1,DELETE character,200,OK,API Load Testing 1-87,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520552,1,GET All Characters,200,OK,API Load Testing 1-88,text,true,,418,129,1,1,http://localhost:3001/characters,1,0,0
+1792253520553,1,GET Character by ID,200,OK,API Load Testing 1-88,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520554,1,POST Create Character,201,Created,API Load Testing 1-88,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520555,1,PUT Update Character,200,OK,API Load Testing 1-88,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520557,1,DELETE character,200,OK,API Load Testing 1-88,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520561,2,GET All Characters,200,OK,API Load Testing 1-89,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520563,1,GET Character by ID,200,OK,API Load Testing 1-89,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520564,1,POST Create Character,201,Created,API Load Testing 1-89,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520565,1,PUT Update Character,200,OK,API Load Testing 1-89,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520567,0,DELETE character,200,OK,API Load Testing 1-89,text,true,,293,216,1,1,http://localhost:3001/character/6,0,0,0
+1792253520569,2,GET All Characters,200,OK,API Load Testing 1-90,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520571,1,GET Character by ID,200,OK,API Load Testing 1-90,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520572,2,POST Create Character,201,Created,API Load Testing 1-90,text,true,,275,221,1,1,http://localhost:3001/character,2,0,0
+1792253520574,1,PUT Update Character,200,OK,API Load Testing 1-90,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520575,0,DELETE character,200,OK,API Load Testing 1-90,text,true,,293,216,1,1,http://localhost:3001/character/6,0,0,0
+1792253520578,1,GET All Characters,200,OK,API Load Testing 1-91,text,true,,418,129,1,1,http://localhost:3001/characters,1,0,0
+1792253520579,1,GET Character by ID,200,OK,API Load Testing 1-91,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520581,0,POST Create Character,201,Created,API Load Testing 1-91,text,true,,275,221,1,1,http://localhost:3001/character,0,0,0
+1792253520582,1,PUT Update Character,200,OK,API Load Testing 1-91,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520583,1,DELETE character,200,OK,API Load Testing 1-91,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520590,2,GET All Characters,200,OK,API Load Testing 1-92,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520592,1,GET Character by ID,200,OK,API Load Testing 1-92,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520593,1,POST Create Character,201,Created,API Load Testing 1-92,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520594,1,PUT Update Character,200,OK,API Load Testing 1-92,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520595,1,DELETE character,200,OK,API Load Testing 1-92,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520600,2,GET All Characters,200,OK,API Load Testing 1-93,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520602,0,GET Character by ID,200,OK,API Load Testing 1-93,text,true,,270,130,1,1,http://localhost:3001/character/1,0,0,0
+1792253520602,2,POST Create Character,201,Created,API Load Testing 1-93,text,true,,275,221,1,1,http://localhost:3001/character,2,0,0
+1792253520604,1,PUT Update Character,200,OK,API Load Testing 1-93,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520605,1,DELETE character,200,OK,API Load Testing 1-93,text,true,,293,216,1,1,http://localhost:3001/character/6,0,0,0
+1792253520607,1,GET All Characters,200,OK,API Load Testing 1-94,text,true,,418,129,1,1,http://localhost:3001/characters,1,0,0
+1792253520608,1,GET Character by ID,200,OK,API Load Testing 1-94,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520609,1,POST Create Character,201,Created,API Load Testing 1-94,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520610,0,PUT Update Character,200,OK,API Load Testing 1-94,text,true,,270,222,1,1,http://localhost:3001/character/1,0,0,0
+1792253520611,0,DELETE character,200,OK,API Load Testing 1-94,text,true,,293,216,1,1,http://localhost:3001/character/6,0,0,0
+1792253520621,2,GET All Characters,200,OK,API Load Testing 1-95,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520623,1,GET Character by ID,200,OK,API Load Testing 1-95,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520624,1,POST Create Character,201,Created,API Load Testing 1-95,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520625,1,PUT Update Character,200,OK,API Load Testing 1-95,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520626,1,DELETE character,200,OK,API Load Testing 1-95,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520632,2,GET All Characters,200,OK,API Load Testing 1-96,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520634,1,GET Character by ID,200,OK,API Load Testing 1-96,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520635,2,POST Create Character,201,Created,API Load Testing 1-96,text,true,,275,221,1,1,http://localhost:3001/character,2,0,0
+1792253520637,2,PUT Update Character,200,OK,API Load Testing 1-96,text,true,,270,222,1,1,http://localhost:3001/character/1,2,0,0
+1792253520639,1,DELETE character,200,OK,API Load Testing 1-96,text,true,,293,216,2,2,http://localhost:3001/character/6,1,0,0
+1792253520641,1,GET All Characters,200,OK,API Load Testing 1-97,text,true,,418,129,1,1,http://localhost:3001/characters,1,0,0
+1792253520642,1,GET Character by ID,200,OK,API Load Testing 1-97,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520644,0,POST Create Character,201,Created,API Load Testing 1-97,text,true,,275,221,1,1,http://localhost:3001/character,0,0,0
+1792253520645,1,PUT Update Character,200,OK,API Load Testing 1-97,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520646,1,DELETE character,200,OK,API Load Testing 1-97,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
+1792253520650,2,GET All Characters,200,OK,API Load Testing 1-98,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520652,1,GET Character by ID,200,OK,API Load Testing 1-98,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520653,1,POST Create Character,201,Created,API Load Testing 1-98,text,true,,275,221,1,1,http://localhost:3001/character,1,0,0
+1792253520654,1,PUT Update Character,200,OK,API Load Testing 1-98,text,true,,270,222,1,1,http://localhost:3001/character/1,1,0,0
+1792253520656,0,DELETE character,200,OK,API Load Testing 1-98,text,true,,293,216,1,1,http://localhost:3001/character/6,0,0,0
+1792253520659,2,GET All Characters,200,OK,API Load Testing 1-99,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520661,1,GET Character by ID,200,OK,API Load Testing 1-99,text,true,,270,130,1,1,http://localhost:3001/character/1,1,0,0
+1792253520662,2,POST Create Character,201,Created,API Load Testing 1-99,text,true,,275,221,1,1,http://localhost:3001/character,2,0,0
+1792253520664,2,PUT Update Character,200,OK,API Load Testing 1-99,text,true,,270,222,1,1,http://localhost:3001/character/1,2,0,0
+1792253520666,3,DELETE character,200,OK,API Load Testing 1-99,text,true,,293,216,1,1,http://localhost:3001/character/6,3,0,0
+1792253520670,2,GET All Characters,200,OK,API Load Testing 1-100,text,true,,418,129,1,1,http://localhost:3001/characters,2,0,1
+1792253520672,3,GET Character by ID,200,OK,API Load Testing 1-100,text,true,,270,130,1,1,http://localhost:3001/character/1,3,0,0
+1792253520675,2,POST Create Character,201,Created,API Load Testing 1-100,text,true,,275,221,1,1,http://localhost:3001/character,2,0,0
+1792253520677,2,PUT Update Character,200,OK,API Load Testing 1-100,text,true,,270,222,1,1,http://localhost:3001/character/1,2,0,0
+1792253520679,1,DELETE character,200,OK,API Load Testing 1-100,text,true,,293,216,1,1,http://localhost:3001/character/6,1,0,0
