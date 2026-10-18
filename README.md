@@ -1,122 +1,134 @@
-# \# JMeter API Load Testing
+\# JMeter API Load Testing
 
-# 
 
-# \## Project Description
 
-# Performance testing of a local REST API using Apache JMeter 5.6.3.
+\## Project Description
 
-# 
+Performance testing of a local REST API using Apache JMeter 5.6.3.
 
-# \## Environment
 
-# \- OS: Windows 11
 
-# \- Java: OpenJDK 21
+\## Environment
 
-# \- Apache JMeter: 5.6.3
+\- OS: Windows 11
 
-# \- Backend: Node.js
+\- Java: OpenJDK 21
 
-# \- Base URL: http://localhost:3001
+\- JMeter: 5.6.3
 
-# 
+\- Backend: Node.js
 
-# \## API Endpoints
+\- Base URL: http://localhost:3001
 
-# 1\. POST /character - Create a character
 
-# 2\. GET /characters - Get all characters
 
-# 3\. GET /character/{id} - Get character by ID
+\## API Endpoints
 
-# 4\. PUT /character/{id} - Update character
+1\. POST /character
 
-# 5\. DELETE /character/{id} - Delete character
+2\. GET /characters
 
-# 
+3\. GET /character/{id}
 
-# Character names are generated randomly.
+4\. PUT /character/{id}
 
-# Character IDs are extracted from POST responses using JSON Extractor.
+5\. DELETE /character/{id}
 
-# 
 
-# \## Test Results
 
-# 
+Random character names are generated using JMeter functions.
 
-# | Users | Ramp-up | Loops | Requests | Error Rate |
 
-# |-------|---------|-------|----------|------------|
 
-# | 100 | 1 sec | 1 | 500 | 0% |
+Character IDs are extracted from POST responses using JSON Extractor.
 
-# | 1000 | 1 sec | 2 | 10000 | 41% |
 
-# | 5000 | 1 sec | 4 | 100000 | 66.75% |
 
-# 
+\## Load Testing Results
 
-# \## Duration Assertion
 
-# Duration Assertion is configured with a threshold of 1000 ms.
 
-# 
+| Users | Ramp-up | Loops | Requests | Errors |
 
-# The updated test plan was successfully validated with 1 user.
+|-------|---------|-------|----------|--------|
 
-# 
+| 100 | 1 sec | 1 | 500 | 0% |
 
-# Extended duration tests were not executed due to local hardware limitations and instructor permission to skip heavy tests.
+| 1000 | 1 sec | 2 | 10000 | 41% |
 
-# 
+| 5000 | 1 sec | 4 | 100000 | 66.75% |
 
-# \## HTML Reports
 
-# \- report\_100
 
-# \- report\_1000
+\## Duration Assertion
 
-# \- report\_5000
 
-# 
 
-# Each report contains an index.html dashboard.
+Duration Assertion threshold: 1000 ms.
 
-# 
 
-# \## Conclusions
 
-# 
+The updated test plan was validated with one user.
 
-# The API successfully handled 100 concurrent users without errors.
 
-# 
 
-# At 1000 and 5000 users, the error rate increased significantly.
+Extended high-load tests were not executed due to local
 
-# 
+hardware limitations and instructor permission.
 
-# Most failures were connection refused errors, indicating that the local server could not accept all incoming connections.
 
-# 
 
-# The original load reports were generated before improvements to dynamic character ID handling.
+\## Reports
 
-# 
 
-# The updated JMeter test plan uses dynamic IDs and includes Duration Assertion.
 
-# 
+\- report\_100
 
-# \## Recommendations
+\- report\_1000
 
-# \- Improve server stability under high concurrency.
+\- report\_5000
 
-# \- Investigate connection refused errors.
 
-# \- Optimize character ID management.
 
-# \- Repeat performance testing in a more powerful environment.
+Each report contains an HTML dashboard (index.html).
+
+
+
+Original JTL results are also included.
+
+
+
+\## Conclusions
+
+
+
+The API handled the initial test with 100 users without errors.
+
+
+
+At higher loads, significant connection failures occurred.
+
+
+
+Most failures were caused by refused connections to localhost:3001.
+
+
+
+The original reports were generated before improvements
+
+to dynamic character ID handling.
+
+
+
+\## Recommendations
+
+
+
+\- Investigate server connection limits.
+
+\- Improve application stability under high concurrency.
+
+\- Optimize character ID management.
+
+\- Repeat high-load testing in a suitable environment.
 
